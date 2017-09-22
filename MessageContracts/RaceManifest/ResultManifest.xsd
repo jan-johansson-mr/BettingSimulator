@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ResultManifest"
+    xmlns="http://tempuri.org/ResultManifest"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+    targetNamespace="http://tempuri.org/ResultManifest"
+    elementFormDefault="qualified">
+
+  <xs:import namespace="http://www.w3.org/2000/09/xmldsig#"/>
+
+  <xs:element name="ResultManifest" type="ResultManifestType"/>
+  <xs:complexType name="ResultManifestType">
+    <xs:sequence>
+      <xs:element ref="ds:Signature"/>
+      <xs:element ref="Result"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:element name="Result" type="ResultType"/>
+    <xs:complexType name="ResultType">
+    <xs:sequence>
+      <xs:element ref="Receipt" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="Id" type="xs:anyURI" use="required"/>
+    <xs:attribute name="Runner" type="xs:string" use="required"/>
+    <xs:attribute name="Odds" type="xs:double" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="Receipt" type="ReceiptType"/>
+  <xs:complexType name="ReceiptType">
+    <xs:sequence>
+    </xs:sequence>
+    <xs:attribute name="Name" type="xs:string" use="required"/>
+    <xs:attribute name="Amount" type="xs:double" use="required"/>
+  </xs:complexType>
+  
+  
+</xs:schema>

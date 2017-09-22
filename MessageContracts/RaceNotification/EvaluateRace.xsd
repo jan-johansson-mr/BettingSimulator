@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EvaluateRace"
+    xmlns="http://tempuri.org/EvaluateRace"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://tempuri.org/EvaluateRace"
+    elementFormDefault="qualified">
+
+  <xs:element name="EvaluateRace" type="EvaluateRaceType"/>
+  <xs:complexType name="EvaluateRaceType">
+    <xs:sequence>
+      <xs:element ref="Wages" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="pool" type="xs:anyURI" use="required"/>
+    <xs:attribute name="timestamp" type="xs:dateTime" use="required"/>
+    <xs:attribute name="total_amount" type="xs:int" use="required"/>
+    <xs:attribute name="total_wagers" type="xs:int" use="required"/>
+    <xs:attribute name="total_runners" type="xs:int" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="Wages" type="WagesType"/>
+  <xs:complexType name="WagesType">
+    <xs:sequence>
+      <xs:element ref="Wager" maxOccurs="unbounded"/>
+      <xs:element ref="Runner"/>
+    </xs:sequence>
+    <xs:attribute name="total_wage" type="xs:int" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="Wager" type="WagerType"/>
+  <xs:complexType name="WagerType">
+    <xs:sequence>
+    </xs:sequence>
+    <xs:attribute name="wage" type="xs:int" use="required"/>
+    <xs:attribute name="name" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="Runner" type="RunnerType"/>
+  <xs:complexType name="RunnerType">
+    <xs:sequence>
+    </xs:sequence>
+    <xs:attribute name="name" type="xs:string" use="required"/>
+  </xs:complexType>
+
+</xs:schema>

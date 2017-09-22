@@ -1,0 +1,9 @@
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\bin\Debug\netstandard2.0\MessageContracts.deps.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\bin\Debug\netstandard2.0\MessageContracts.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\bin\Debug\netstandard2.0\MessageContracts.pdb
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.csprojResolveAssemblyReference.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.csproj.CoreCompileInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.AssemblyInfoInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.AssemblyInfo.cs
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\MessageContracts\obj\Debug\netstandard2.0\MessageContracts.pdb

@@ -1,0 +1,13 @@
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\EventConsole.deps.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\EventConsole.runtimeconfig.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\EventConsole.runtimeconfig.dev.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\EventConsole.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\EventConsole.pdb
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.csprojResolveAssemblyReference.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.csproj.CoreCompileInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.AssemblyInfoInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.AssemblyInfo.cs
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\obj\Debug\netcoreapp2.0\EventConsole.pdb
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\MessageContracts.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\EventConsole\bin\Debug\netcoreapp2.0\MessageContracts.pdb

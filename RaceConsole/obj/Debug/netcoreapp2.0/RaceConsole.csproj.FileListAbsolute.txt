@@ -1,0 +1,13 @@
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\RaceConsole.deps.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\RaceConsole.runtimeconfig.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\RaceConsole.runtimeconfig.dev.json
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\RaceConsole.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\RaceConsole.pdb
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.csprojResolveAssemblyReference.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.csproj.CoreCompileInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.AssemblyInfoInputs.cache
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.AssemblyInfo.cs
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\obj\Debug\netcoreapp2.0\RaceConsole.pdb
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\MessageContracts.dll
+E:\Product Portfolio\07 - Demo - Pool betting\08 - Solutions\DemoPoolBetting\RaceConsole\bin\Debug\netcoreapp2.0\MessageContracts.pdb
